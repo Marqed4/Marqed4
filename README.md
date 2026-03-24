@@ -1,4 +1,5 @@
-Hi 👋 My name is Zachery Francis
+How's it going? 🤔
+My name is Zachery "Marqed" Francis!
 ================================
 
 Content Creator/ Developer
@@ -22,7 +23,7 @@ It feels amazing to build projects, to service a purpose, or reveal new ones.
 
 * 🌍  I'm based in New York, NY, USA
 * 🖥️  See my portfolio at [https://marqed4.github.io](http://marqed4.github.io)
-* ✉️  You can contact me at [zacherywfrancis@gmail.com](mailto:zacherywfrancis@gmail.com)
+* ✉️  You can contact me at [zacherywfrancis@gmail.com](mailto:zacherywfrancis@gmail.com) or [marqers7@gmail.com](mailto:marqers7@gmail.com)
 * 🧠  I'm currently learning more Java, More C# | Python/ React/ Tauri
 * ⚡  Clasically Trained in Java
 
