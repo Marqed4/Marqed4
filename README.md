@@ -6,13 +6,13 @@ Content Creator/ Developer
 --------------------------
 
 I love creating video edits that radiate an elevated sense of skill and creative vision.
-The kind of effervescence that turns a great "play" into an iconic moment.<br/>‎
-‎‎
+The kind of effervescence that turns a great "play" into an iconic moment./
+
 The thing is, for me editing & programming is an expression of self. It isn't conformity, so what is it? It's application, maybe indentation.
-The world I'd like to live in; the way I want to be noticed. It's all much, much more than just utility!<br/>
-‎
+The world I'd like to live in; the way I want to be noticed. It's all much, much more than just utility!/
+
 Technology comes naturally because it's the toolset that lets me shape ideas, refine my style, and show real expertise through the work I put out.
-It feels amazing to build projects, to service a purpose, or reveal new ones.<br/>
+It feels amazing to build projects, to service a purpose, or reveal new ones./
 
 * 🌍  I'm based in New York, NY, USA
 * 🖥️  See my portfolio at [https://marqed4.github.io](http://marqed4.github.io)
