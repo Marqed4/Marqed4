@@ -17,7 +17,7 @@ that serve a purpose or reveal new ones.
 <------ Logistics ------>
 
 🌍 New York, NY, USA  
-🖥️ Checkout: [marqed.it](http://www.marqed.it)
+🖥️ Checkout: [marqed.it](http://www.marqed.it)  
 ✉️ Email: [zacherywfrancis@gmail.com](mailto:zacherywfrancis@gmail.com) or [marqers7@gmail.com]
 
 <-- Better Understood : Still Learning -->
