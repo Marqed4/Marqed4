@@ -18,7 +18,7 @@ that serve a purpose or reveal new ones.
 
 🌍 New York, NY, USA  
 🖥️ Checkout: [marqed.it](http://www.marqed.it)  
-✉️ Email: [zacherywfrancis@gmail.com](mailto:zacherywfrancis@gmail.com) or [marqers7@gmail.com]
+✉️ Email: [zacherywfrancis@gmail.com](mailto:zacherywfrancis@gmail.com) or [marqers7@gmail.com](mailto:marqers7@gmail.com) 
 
 <-- Better Understood : Still Learning -->
 
