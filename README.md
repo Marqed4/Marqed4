@@ -23,7 +23,7 @@ that serve a purpose or reveal new ones.
 <-- Better Understood : Still Learning -->
 
 ⌨️ **Languages**  
-Java, C#, Python, JavaScript, Rust, C++, SQL
+Java, C#, Python, JavaScript, Rust, SQL, C++
 
 ⌨️ **Web Foundations**  
 HTML, CSS
