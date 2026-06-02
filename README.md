@@ -8,7 +8,7 @@ the kind of effervescence that turns a great "play" into an iconic moment.
 
 For me, editing and programming are expressions of self. They aren’t about conformity;  
 they’re about application, intention, maybe even indentation. They’re the world I’d like  
-to live in — the way I want to be noticed. It’s all much more than utility.
+to live in-- the way I want to be noticed. It’s all much more than utility.
 
 Technology comes naturally because it’s the toolset that lets me shape ideas, refine my style,  
 and show real expertise through the work I put out. It feels incredible to build projects  
