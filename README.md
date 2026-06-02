@@ -3,7 +3,7 @@ Content Creator / Developer
 
 <------ About ------>
 
-I love creating video edits that radiate an elevated sense of skill and creative vision —  
+I love creating video edits that radiate an elevated sense of skill and creative vision--  
 the kind of effervescence that turns a great "play" into an iconic moment.
 
 For me, editing and programming are expressions of self. They aren’t about conformity;  
